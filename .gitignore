@@ -1,0 +1,34 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+.idea/
+# Android Studio generated files and folders
+/build
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+output.json
+bin/
+gen/
+# Local configuration file (sdk path, etc)
+local.properties
+# Keystore files
+*.jks
+*.keystore
+# Android Profiling
+*.hprof
+# Log/OS Files
+*.log
+# files for the dex VM
+*.dex
+
